@@ -1,8 +1,7 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About 
+date: 2022-02-24
 comments: false
 ---
  
