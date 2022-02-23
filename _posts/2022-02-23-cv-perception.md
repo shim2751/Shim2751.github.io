@@ -3,7 +3,6 @@ layout: post
 title: "Data Custom"
 date: 2022-02-23
 excerpt: "Custom Aihub's data to COCO format for training YOLOX."
-project: true
 tags: [cv perception]
 comments: true
 ---
