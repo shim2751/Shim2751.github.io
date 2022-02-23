@@ -2,6 +2,7 @@
 layout: post
 title:  "Data custom"
 date:   2022-02-24
+project: true
 tags:   [cv_perception]
 comments: false
 ---
