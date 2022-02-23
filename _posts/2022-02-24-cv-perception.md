@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Data custom"
+date:   2022-02-24
+tag:[cv_perception]
+comments: false
+---
+
 ## 0. Goal
    Custom Aihub's data for training YOLOX.
   
